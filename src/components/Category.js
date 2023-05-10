@@ -42,8 +42,8 @@ function Category() {
             </button>
             <button type='button'>
               <img
-                src='/images/icons/Next.png'
-                alt='previous'
+                src='/images/icons/next.png'
+                alt='next'
                 className='w-[113px] h-[50px]'
               />
             </button>
